@@ -1,2 +1,9 @@
-# password_generator_PYTHON_miniproject
-Enhance your Python skills with this hands-on mini project – the Password Generator Script.
+# Random Password Generator
+
+This Python script generates random passwords based on user preferences.
+
+## Features
+
+- Allows users to choose from different password options.
+- Supports options for including numbers, lowercase and uppercase letters, and special characters.
+- Generates secure and random passwords of specified length.
